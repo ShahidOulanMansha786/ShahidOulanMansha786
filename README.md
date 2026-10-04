@@ -27,5 +27,5 @@ I am a final-year Computer Science student at PUCIT, University of the Punjab. I
 
 ## Contact
 
-- 📧 Email: [shahidoulan@gmail.com](mailto:shahidoulan@gmail.com)
+- 📧 Email: [shahidoulanmansha@gmail.com](mailto:shahidoulanmansha@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/shahid-oulan-mansha-336b05247](https://www.linkedin.com/in/shahid-oulan-mansha-336b05247)
